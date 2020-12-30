@@ -1,22 +1,21 @@
 # Hackathon Rules
 
-These are standard competition rules used at MLH Member Hackathons. Not all MLH Member Hackathons will use these rules as organizers can choose to use these or their own rules. Organizers can use these rules exactly or fork them and edit them to suit their needs. If you have a suggestion for these rules or a question about them, please submit an issue [here](https://github.com/MLH/hackathon-rules/issues).
+These are the CruzHacks-flavored standard competition rules used at MLH Member Hackathons, forked from [MLH's repo](https://github.com/MLH/hackathon-rules). 
 
-
-## The spirit of the competition
+## The Spirit of the Competition
 
 Remember that hackathons are like marathons. Some people go to compete but most people take part to better themselves and have fun. Whatever the reason is you're at a hackathon, make sure you're upholding the [hacker spirit](https://medium.com/@tfogo/the-spirit-of-hackathons-a0d81a65060a#.6cx5ac9t8) by collaborating with other teams, helping beginners, and having fun.
 
 
-## The rules of the competition
+## The Rules of the Competition
 
-1. There is no maximum or minimum team size. As a participant, you should make sure to check how many prizes are available per team. There is usually a limited number of prizes for each challenge. So if you form a large team and win a challenge, there might not be enough prizes for everyone on your team.
-2. Teams should be made up exclusively of students (or recent graduates within one year of having graduated) who are not organizers, volunteers, judges, sponsors, or in any other privileged position at the event. 
+1. Teams may have a maximum of 4 hackers.
+2. Teams should be made up exclusively of accepted hackers who are not organizers, volunteers, mentors, judges, sponsors, or any other privileged position at the event. 
 3. All team members should be present at the event. Leaving the venue for some time to hack elsewhere is fine.
-4. Teams can of course gain advice and support from organizers, volunteers, sponsors, and others.
-5. All work on a project should be done at the hackathon.
+4. Teams can gain advice and support from organizers, volunteers, sponsors, and others.
+5. All work on a project must be done at the hackathon.
 6. Teams can use an idea they had before the event.
-7. Teams can work on ideas that have already been done. Hacks do not have to be “innovative”. If somebody wants to work on a common idea they should be allowed to do so and should be judged on the quality of their hack. These days it’s hard to find something that’s fully original and teams might not know an idea has been done before anyway.
+7. Teams can work on ideas that have already been done. Hacks do not have to be “innovative”. If somebody wants to work on a common idea they will be allowed to do so and will be judged on the quality of their hack. (These days it’s hard to find something that’s fully original and teams might not know an idea has been done before anyway.)
 8. Teams can work on an idea that they have worked on before (as long as they do not re-use code).
 9. Teams can use libraries, frameworks, or open-source code in their projects. Working on a project before the event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of the rules and is not allowed.
 10. Adding new features to existing projects is allowed. Judges will only consider new functionality introduced or new features added during the hackathon in determining the winners.
