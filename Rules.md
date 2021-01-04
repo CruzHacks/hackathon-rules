@@ -11,27 +11,26 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 
 1. Teams may have a maximum of 4 hackers.
 2. Teams should be made up exclusively of accepted hackers who are not organizers, volunteers, mentors, judges, sponsors, or any other privileged position at the event. 
-3. All team members should be present at the event. Leaving the venue for some time to hack elsewhere is fine.
-4. Teams can gain advice and support from organizers, volunteers, sponsors, and others.
-5. All work on a project must be done at the hackathon.
-6. Teams can use an idea they had before the event.
-7. Teams can work on ideas that have already been done. Hacks do not have to be “innovative”. If somebody wants to work on a common idea they will be allowed to do so and will be judged on the quality of their hack. (These days it’s hard to find something that’s fully original and teams might not know an idea has been done before anyway.)
-8. Teams can work on an idea that they have worked on before (as long as they do not re-use code).
-9. Teams can use libraries, frameworks, or open-source code in their projects. Working on a project before the event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of the rules and is not allowed.
-10. Adding new features to existing projects is allowed. Judges will only consider new functionality introduced or new features added during the hackathon in determining the winners.
-11. Teams must stop hacking once the time is up. However, teams are allowed to debug and make small fixes to their programs after time is up. e.g. If during demoing your hack you find a bug that breaks your application and the fix is only a few lines of code, it's okay to fix that. Making large changes or adding new features is not allowed.
-12. Projects that violate the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf) are not allowed. 
-13. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf), or other unsporting behaviour.
+3. Teams can gain advice and support from organizers, volunteers, sponsors, and others.
+4. All work on a project must be done at the hackathon.
+5. Teams can use an idea they had before the event.
+6. Teams can work on ideas that have already been done. Hacks do not have to be “innovative”. If somebody wants to work on a common idea they will be allowed to do so and will be judged on the quality of their hack. (These days it’s hard to find something that’s fully original and teams might not know an idea has been done before anyway.)
+7. Teams can work on an idea that they have worked on before (as long as they do not re-use code).
+8. Teams can use libraries, frameworks, or open-source code in their projects. Working on a project before the event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of the rules and is not allowed.
+9. Adding new features to existing projects is allowed. Judges will only consider new functionality introduced or new features added during the hackathon in determining the winners.
+10. Teams must stop hacking once the time is up. However, teams are allowed to debug and make small fixes to their programs after time is up. e.g. If during demoing your hack you find a bug that breaks your application and the fix is only a few lines of code, it's okay to fix that. Making large changes or adding new features is not allowed.
+11. Projects that violate the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf) are not allowed. 
+12. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf), or other unsporting behaviour.
 
 
 ## Submission Requirements
 
-After hacking finishes, teams will submit their projects for judging.
+After hacking finishes, teams will submit their projects to Devpost for judging.
 
 A project submission must have three components to be eligible for judging:
 - a 2-minute demo video;
 - a link to the project's code repository; _and_
-- a write-up on the project page.
+- a brief write-up on the project page.
 
 The judging process is asynchronous, and these parts of your submission are what judges will use to evaluate your project.
 
