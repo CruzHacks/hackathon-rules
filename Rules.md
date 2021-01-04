@@ -34,7 +34,9 @@ A project submission must have three components to be eligible for judging:
 
 The judging process is asynchronous, and these parts of your submission are what judges will use to evaluate your project.
 
-You are encouraged to present what you have done even if your hack is broken or you weren’t able to finish. It's okay if you didn't finish your hack — that happens all the time! Demoing is not just about the competition: it's a chance to share with others what you learned and what you tried to build. In the case that you don't have anything to demo, you can give a presentation about what you tried and what you learned. Hearing what other people learned is interesting and inspiring for other attendees.
+In the 2-minute demo video, you are encouraged to present what you have done even if your hack is broken or you weren’t able to finish. It's okay if you didn't finish your hack — that happens all the time! Demoing is not just about the competition: it's a chance to share with others what you learned and what you tried to build. In the case that you don't have anything to demo, you can give a presentation about what you tried and what you learned. Hearing what other people learned is interesting and inspiring for other attendees.
+
+Each project may only be submitted to one Tech Cares track (health, earth, justice), but teams can opt-in to multiple relevant sponsor categories. 
 
 ## Judging Criteria
 
@@ -55,7 +57,6 @@ It's important to note that these judging criteria do not include:
 - How well the project solves a problem. You can build something totally useless and as long as you're learning and having fun, that's a good hack! Sometimes a pointless project is one of the best hacks!
 
 So don't worry about coming up with the next big idea or building the next Facebook. You'll have plenty of time for that outside the hackathon. just focus on learning, having fun, and making new friends. At the end of the day the skills you learn and the friends you make might lead to the next big thing—but you don't have to do that to win a hackathon.
-
 
 ## Remember!
 
