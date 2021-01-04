@@ -24,14 +24,18 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 13. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf), or other unsporting behaviour.
 
 
-## Demos
+## Submission Requirements
 
-After hacking finishes, teams will show their projects each other and to the judges.
+After hacking finishes, teams will submit their projects for judging.
 
-You are strongly encouraged to present a demo of what you have built. Pitches or presentations are discouraged. You are not judged on the quality of your pitch or the quality of your idea. As you are judged on what you built, you'll only hurt yourself by not showing a demo.
+A project submission must have three components to be eligible for judging:
+- a 2-minute demo video;
+- a link to the project's code repository; _and_
+- a write-up on the project page.
 
-You are encouraged to present what you have done even if your hack is broken or you weren’t able to finish. It's okay if you didn't finish your hack—that happens all the time! Completion is only one part of the judging criteria, so you might still do well. Also, demoing is not just about the competition. It's a chance to share with others what you learned and what you tried to build—that's what hacking's all about! For being courageous enough to demo, you'll receive a special MLH "I Demoed" sticker—it doesn't matter how good the demo is! In the case that you don't have anything to demo, you can give a presentation about what you tried and what you learned. Hearing what other people learned is interesting and inspiring for other attendees.
+The judging process is asynchronous, and these parts of your submission are what judges will use to evaluate your project.
 
+You are encouraged to present what you have done even if your hack is broken or you weren’t able to finish. It's okay if you didn't finish your hack — that happens all the time! Demoing is not just about the competition: it's a chance to share with others what you learned and what you tried to build. In the case that you don't have anything to demo, you can give a presentation about what you tried and what you learned. Hearing what other people learned is interesting and inspiring for other attendees.
 
 ## Judging Criteria
 
@@ -58,4 +62,4 @@ So don't worry about coming up with the next big idea or building the next Faceb
 
 The competition is just a part of the hackathon. To make the most out of the event, try something new, teach other people, and make new friends!
 
-Happy Hacking from the MLH team!
+Happy Hacking from CruzHacks and the MLH team!
