@@ -22,6 +22,9 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 11. Projects that violate the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf) are not allowed. 
 12. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf), or other unsporting behaviour.
 
+Two additional clarifications:
+- Your CruzHacks project may NOT be cross-submitted to other hackathons. Similarly, we do not accept projects cross-submitted from other hackathons (Rule 4).
+- Your CruzHacks project may NOT include work from before January 15. This means you cannot use work done at MLH's Local Hack Day: Build (if you are participating). 
 
 ## Submission Requirements
 
