@@ -24,7 +24,7 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 
 Two additional clarifications:
 - Your CruzHacks project may NOT be cross-submitted to other hackathons. Similarly, we do not accept projects cross-submitted from other hackathons (Rule 4).
-- Your CruzHacks project may NOT include work from before January 15. This means you cannot use work done at MLH's Local Hack Day: Build (if you are participating). 
+- Your CruzHacks project may NOT include work from before January 14. This means you cannot use work done at MLH's Local Hack Day: Build (if you are participating). 
 
 ## Submission Requirements
 
@@ -39,7 +39,7 @@ The judging process is asynchronous, and these parts of your submission are what
 
 In the 2-minute demo video, you are encouraged to present what you have done even if your hack is broken or you weren’t able to finish. It's okay if you didn't finish your hack — that happens all the time! Demoing is not just about the competition: it's a chance to share with others what you learned and what you tried to build. In the case that you don't have anything to demo, you can give a presentation about what you tried and what you learned. Hearing what other people learned is interesting and inspiring for other attendees.
 
-Each project may only be submitted to one Tech Cares track (health, earth, justice), but teams can opt-in to multiple relevant sponsor categories. 
+Each project may only be submitted to one Tech Cares track (health, education, justice), but teams can opt-in to multiple relevant sponsor categories. 
 
 ## Judging Criteria
 
