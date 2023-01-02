@@ -1,6 +1,8 @@
-# Hackathon Rules
+# CruzHacks 2023 Hackathon Rules
 
 These are the CruzHacks-flavored standard competition rules used at MLH Member Hackathons, forked from [MLH's repo](https://github.com/MLH/hackathon-rules). 
+
+This document serves as an addendum to the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing). It explains and expands on the rules detailed in the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing). Should there any conflict between this document and the CruzHacks 2023 Participation and Release Agreement, the CruzHacks 2023 Participiation and Release Agreement should be followed. 
 
 ## The Spirit of the Competition
 
@@ -22,33 +24,35 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 11. Projects that violate the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf) are not allowed. 
 12. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf), or other unsporting behaviour.
 
-Two additional clarifications:
-- Your CruzHacks project may NOT be cross-submitted to other hackathons. Similarly, we do not accept projects cross-submitted from other hackathons (Rule 4).
-- Your CruzHacks project may NOT include work from before January 14. This means you cannot use work done at MLH's Local Hack Day: Build (if you are participating). 
+## Submission Requirements and Demo
 
-## Submission Requirements
+After hacking finishes, teams must submit their projects to Devpost by the submission deadline.
 
-After hacking finishes, teams will submit their projects to Devpost for judging.
-
-A project submission must have three components to be eligible for judging:
-- a 2-minute demo video;
+A project's Devpost submission must have two components to be eligible for judging:
 - a link to the project's code repository; _and_
 - a brief write-up on the project page.
 
-The judging process is asynchronous, and these parts of your submission are what judges will use to evaluate your project.
+Teams must then submit the link to their Devpost submission on the CruzHacks 2023 Hacker Portal.
 
-In the 2-minute demo video, you are encouraged to present what you have done even if your hack is broken or you weren’t able to finish. It's okay if you didn't finish your hack — that happens all the time! Demoing is not just about the competition: it's a chance to share with others what you learned and what you tried to build. In the case that you don't have anything to demo, you can give a presentation about what you tried and what you learned. Hearing what other people learned is interesting and inspiring for other attendees.
+After submission, teams will show their projects each other and to the judges.
 
-Each project may only be submitted to one Tech Cares track (health, education, justice), but teams can opt-in to multiple relevant sponsor categories. 
+Judging will take place synchronously in-person during the Expo/Demo section of CruzHacks 2023. Teams will be notified of their table number prior to the start of the Expo/Demo section, and at least one member of the team must be present to present their project to judges in order for their submission to be considered for prizes. 
+
+It's important to note that there may be multiple rounds of judges that come to judge your project, especially if you submitted your project to multiple prize categories. As such, it is important to remain at your table for the entire duration of the Expo/Demo section of CruzHacks 2023.
+
+You are encouraged to present what you have done even if your hack is broken or you weren’t able to finish. It's okay if you didn't finish your hack—that happens all the time! Completion is only one part of the judging criteria, so you might still do well. Also, demoing is not just about the competition. It's a chance to share with others what you learned and what you tried to build—that's what hacking's all about! For being courageous enough to demo, you'll receive a special MLH "I Demoed" sticker—it doesn't matter how good the demo is! In the case that you don't have anything to demo, you can give a presentation about what you tried and what you learned. Hearing what other people learned is interesting and inspiring for other attendees.
+
+Each project may only be submitted to one Tech Cares track (health, sustainability, justice, fintech), but teams can opt-in to multiple CruzHacks Category Prizes and Sponsor Prizes. 
 
 ## Judging Criteria
 
-Teams will be judged on these four criteria. Judges will weigh the criteria equally. During judging, participants should try to describe what they did for each criterion in their project. 
+Teams will be judged on these five criteria. During judging, participants should try to describe what they did for each criterion in their project. 
 
 - __Technology:__ How technically impressive was the hack? Was the technical problem the team tackled difficult? Did it use a particularly clever technique or did it use many different components? Did the technology involved make you go "Wow"?
 - __Design:__ Did the team put thought into the user experience? How well designed is the interface? For a website, this might be about how beautiful the CSS or graphics are. For a hardware project, it might be more about how good the human-computer interaction is (e.g. is it easy to use or does it use a cool interface?). 
-- __Completion:__ Does the hack work? Did the team achieve everything they wanted? 
-- __Learning:__ Did the team stretch themselves? Did they try to learn something new? What kind of projects have they worked on before? If a team which always does virtual reality projects decides to switch up and try doing a mobile app instead, that exploration should be rewarded. 
+- __Completion:__ Does the hack work? Did the team achieve everything they wanted? Does the project do what it's suppoed to do?
+- __Ideation:__ How creative or original is the project idea?
+- __Applicability:__ How well does this project fit the prize track it's in?
 
 These criteria will guide judges but ultimately judges are free to make decisions based on their gut feeling of which projects are the most impressive and most deserving.
 
@@ -56,7 +60,6 @@ It's important to note that these judging criteria do not include:
 
 - How good your code is. It doesn't matter if your code is messy, or not well commented, or uses inefficient algorithms. Hacking is about playing around, making mistakes, and learning new things. If your code isn't production ready, we're not going to mark you down.
 - How well you pitch. Hacking is about building and learning, not about selling.
-- How good the idea is. Again, hackathons aren't about coming up with innovative ideas. It's about building and learning.
 - How well the project solves a problem. You can build something totally useless and as long as you're learning and having fun, that's a good hack! Sometimes a pointless project is one of the best hacks!
 
 So don't worry about coming up with the next big idea or building the next Facebook. You'll have plenty of time for that outside the hackathon. just focus on learning, having fun, and making new friends. At the end of the day the skills you learn and the friends you make might lead to the next big thing—but you don't have to do that to win a hackathon.
