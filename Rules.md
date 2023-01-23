@@ -2,7 +2,7 @@
 
 These are the CruzHacks-flavored standard competition rules used at MLH Member Hackathons, forked from [MLH's repo](https://github.com/MLH/hackathon-rules). 
 
-This document serves as an addendum to the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing). It explains and expands on the rules detailed in the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing). Should there any conflict between this document and the CruzHacks 2023 Participation and Release Agreement, the CruzHacks 2023 Participiation and Release Agreement should be followed. 
+This document serves as an addendum to the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing). It explains and expands on the rules detailed in the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing). Should there be any direct conflict between this document and the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing) (i.e. an activity explicitly allowed by one document is explicitly prohibited by the other), the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing) should be followed. Otherwise, the terms and rules listed in both documents apply.
 
 ## The Spirit of the Competition
 
