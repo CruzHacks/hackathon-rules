@@ -2,7 +2,9 @@
 
 These are the CruzHacks-flavored standard competition rules used at MLH Member Hackathons, forked from [MLH's repo](https://github.com/MLH/hackathon-rules). 
 
-This document serves as an addendum to the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing). It explains and expands on the rules detailed in the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing). Should there be any direct conflict between this document and the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing) (i.e. an activity explicitly allowed by one document is explicitly prohibited by the other), the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing) should be followed. Otherwise, the terms and rules listed in both documents apply.
+This document serves as an addendum to the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing). It explains and expands on the rules detailed in the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing). The terms and rules listed in both this document and the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing) apply.
+
+Should there be a direct conflict between this document and the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing) (i.e. an activity explicitly allowed by one document is explicitly prohibited by the other), the conflicting rule from this document should be disregarded, and the rule in the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing) should be followed. All other terms and rules listed in this document will continue to apply.
 
 ## The Spirit of the Competition
 
@@ -31,8 +33,6 @@ After hacking finishes, teams must submit their projects to Devpost by the submi
 A project's Devpost submission must have two components to be eligible for judging:
 - a link to the project's code repository; _and_
 - a brief write-up on the project page.
-
-Teams must then submit the link to their Devpost submission on the CruzHacks 2023 Hacker Portal.
 
 After submission, teams will show their projects each other and to the judges.
 
