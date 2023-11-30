@@ -1,10 +1,10 @@
-# CruzHacks 2023 Hackathon Rules
+# CruzHacks 2024 Hackathon Rules
 
 These are the CruzHacks-flavored standard competition rules used at MLH Member Hackathons, forked from [MLH's repo](https://github.com/MLH/hackathon-rules). 
 
-This document serves as an addendum to the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing). It explains and expands on the rules detailed in the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing). All terms and rules listed in this document and the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing) apply.
+This document serves as an addendum to the [CruzHacks 2024 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing). It explains and expands on the rules detailed in the [CruzHacks 2024 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing). All terms and rules listed in this document and the [CruzHacks 2024 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing) apply.
 
-Should there be a direct conflict between this document and the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing) (i.e. an activity explicitly allowed by one document is explicitly prohibited by the other), the conflicting rule from this document should be disregarded, and the rule in the [CruzHacks 2023 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing) should be followed. All other terms and rules listed in this document will continue to apply.
+Should there be a direct conflict between this document and the [CruzHacks 2024 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing) (i.e. an activity explicitly allowed by one document is explicitly prohibited by the other), the conflicting rule from this document should be disregarded, and the rule in the [CruzHacks 2024 Participation and Release Agreement](https://docs.google.com/document/d/1298VyEqrSIvbzM3U8nvLQsLtY78Vi2mbndr3d5w0UKk/edit?usp=sharing) should be followed. All other terms and rules listed in this document will continue to apply.
 
 ## The Spirit of the Competition
 
@@ -36,9 +36,9 @@ A project's Devpost submission must have two components to be eligible for judgi
 
 After submission, teams will show their projects each other and to the judges.
 
-Judging will take place synchronously in-person during the Expo/Demo section of CruzHacks 2023. Teams will be notified of their table number prior to the start of the Expo/Demo section, and at least one member of the team must be present to present their project to judges in order for their submission to be considered for prizes. 
+Judging will take place synchronously in-person during the Expo/Demo section of CruzHacks 2024. Teams will be notified of their table number prior to the start of the Expo/Demo section, and at least one member of the team must be present to present their project to judges in order for their submission to be considered for prizes. 
 
-It's important to note that there may be multiple rounds of judges that come to judge your project, especially if you submitted your project to multiple prize categories. As such, it is important to remain at your table for the entire duration of the Expo/Demo section of CruzHacks 2023.
+It's important to note that there may be multiple rounds of judges that come to judge your project, especially if you submitted your project to multiple prize categories. As such, it is important to remain at your table for the entire duration of the Expo/Demo section of CruzHacks 2024.
 
 You are encouraged to present what you have done even if your hack is broken or you weren’t able to finish. It's okay if you didn't finish your hack—that happens all the time! Completion is only one part of the judging criteria, so you might still do well. Also, demoing is not just about the competition. It's a chance to share with others what you learned and what you tried to build—that's what hacking's all about! For being courageous enough to demo, you'll receive a special MLH "I Demoed" sticker—it doesn't matter how good the demo is! In the case that you don't have anything to demo, you can give a presentation about what you tried and what you learned. Hearing what other people learned is interesting and inspiring for other attendees.
 
