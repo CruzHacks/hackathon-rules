@@ -36,9 +36,9 @@ A project's Devpost submission must have two components to be eligible for judgi
 
 After submission, teams will show their projects each other and to the judges.
 
-Judging will take place synchronously in-person during the Expo/Demo section of CruzHacks 2024. Teams will be notified of their table number prior to the start of the Expo/Demo section, and at least one member of the team must be present to present their project to judges in order for their submission to be considered for prizes. 
+Judging will take place synchronously in-person during the Expo/Demo section of CruzHacks 2025. Teams will be notified of their table number prior to the start of the Expo/Demo section, and at least one member of the team must be present to present their project to judges in order for their submission to be considered for prizes. 
 
-It's important to note that there may be multiple rounds of judges that come to judge your project, especially if you submitted your project to multiple prize categories. As such, it is important to remain at your table for the entire duration of the Expo/Demo section of CruzHacks 2024.
+It's important to note that there may be multiple rounds of judges that come to judge your project, especially if you submitted your project to multiple prize categories. As such, it is important to remain at your table for the entire duration of the Expo/Demo section of CruzHacks 2025.
 
 You are encouraged to present what you have done even if your hack is broken or you weren’t able to finish. It's okay if you didn't finish your hack—that happens all the time! Completion is only one part of the judging criteria, so you might still do well. Also, demoing is not just about the competition. It's a chance to share with others what you learned and what you tried to build—that's what hacking's all about! For being courageous enough to demo, you'll receive a special MLH "I Demoed" sticker—it doesn't matter how good the demo is! In the case that you don't have anything to demo, you can give a presentation about what you tried and what you learned. Hearing what other people learned is interesting and inspiring for other attendees.
 
